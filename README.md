@@ -4,7 +4,7 @@ Welcome to the Farmers Delight repository! Farmers Delight is an online platform
 
 This repository contains all the necessary code and documentation for the Farmers Delight platform. Whether you are a developer interested in contributing to the project or a user looking to understand the system's functionality, this README will guide you through the key aspects of Farmers Delight.
 
-## Features
+## Features 
 - Direct Farmer-Customer Interaction: Farmers Delight enables farmers to showcase their products and establish direct connections with customers. This eliminates the need for middlemen, ensuring that farmers receive fair prices for their produce while customers have access to high-quality, farm-fresh goods.
 
 - Online Marketplace: Farmers can create profiles on the platform, upload product information, set prices, and manage inventory. Customers can browse through the available products, place orders, and even provide feedback to further strengthen the farmer-customer relationship.
