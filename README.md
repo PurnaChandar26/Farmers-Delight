@@ -15,3 +15,4 @@ This repository contains all the necessary code and documentation for the Farmer
 
 - Delivery Options: Farmers Delight offers flexible delivery options, allowing farmers to choose their preferred delivery methods. Whether it's home delivery or pickup from designated locations, farmers can decide how to fulfill customer orders based on their capabilities and logistics.
 
+ 
